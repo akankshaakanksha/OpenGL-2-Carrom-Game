@@ -1,0 +1,33 @@
+Carrom: The rules are:
+
+Single player:
+
+1 player chooses the color he wants to play for
+2 timer: score decrements by one every 1 seconds
+4 necessary to pocket the queen before pocketing all coins of his color
+5 other color's coin placed at center if pocketed
+
+Points:
+
++10 for pocketing coin of his color
++50 for pocketing coin of queen
+-5 for pocketing coin of other color or striker
+
+User inputs for striker( moves):
+
+a to change direction anticlockwise
+c to change the direction clockwise
+left key to move striker leftwards
+right key to move striker rightwards
+spacebar to shoot
+enter to reinitialise the striker and shoot again
+
+Mouse inputs:
+
+left button down : set direction
+left button up : shoot
+right button down : move the striker horizontally 
+cursor up and down : increase decrease speed
+ 
+
+ 
